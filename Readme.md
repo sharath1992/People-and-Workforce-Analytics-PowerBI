@@ -32,29 +32,29 @@ Credit: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
 
 Page 1: Executive Workforce Overview
 
-    Tracks core KPIs including 2,458 Active Headcount, a 62.16% Rolling 12M Attrition Rate, an average employee tenure of 5.69 years, and a 0.34 Full-Time Ratio.
+Tracks core KPIs including 2,458 Active Headcount, a 62.16% Rolling 12M Attrition Rate, an average employee tenure of 5.69 years, and a 0.34 Full-Time Ratio.
 
-    Visualizes headcount trends against rolling attrition velocity and active headcount segmentation across pay zones and employee types.
+Visualizes headcount trends against rolling attrition velocity and active headcount segmentation across pay zones and employee types.
 
 Page 2: Geographic & Organizational Distribution
 
-    Analyzes a national footprint spanning 2,821 operating locations with primary worker concentration in Massachusetts (2,152 active headcount).
+Analyzes a national footprint spanning 2,821 operating locations with primary worker concentration in Massachusetts (2,152 active headcount).
 
-    Evaluates division span-of-control, detailing how department types are distributed across corporate service sectors and field operations.
+Evaluates division span-of-control, detailing how department types are distributed across corporate service sectors and field operations.
 
 Page 3: Demographics & Diversity Analytics
 
-    Uncovers workforce representation metrics, showing a 55.09% Female Representation rate, an 80.07% Diversity Ratio, and performance rating distributions across racial and gender cohorts.
+Uncovers workforce representation metrics, showing a 55.09% Female Representation rate, an 80.07% Diversity Ratio, and performance rating distributions across racial and gender cohorts.
 
 Page 4: Recruitment & Talent Acquisition Pipeline
 
-    Manages an active candidate funnel of 1,796 open requisitions, yielding a 20.33% Candidate Conversion Rate and tracking an average cost-per-hire benchmark alongside education-level salary expectations (~$65k average desired salary).
+Manages an active candidate funnel of 1,796 open requisitions, yielding a 20.33% Candidate Conversion Rate and tracking an average cost-per-hire benchmark alongside education-level salary expectations (~$65k average desired salary).
 
 Page 5: Training & Employee Sentiment Analysis
 
-    Evaluates a $1.68M total training investment split evenly between internal and external programs, achieving a 50.30% Program Success Rate.
+Evaluates a $1.68M total training investment split evenly between internal and external programs, achieving a 50.30% Program Success Rate.
 
-    Summarizes departmental sentiment, revealing stable engagement averages (~2.94) and satisfaction scores (~3.02) across business units.
+Summarizes departmental sentiment, revealing stable engagement averages (~2.94) and satisfaction scores (~3.02) across business units.
 
 ## Next Steps & Future Enhancements for a Production scale project
 
@@ -66,12 +66,12 @@ Row-Level Security (RLS): Implement dynamic role-based security so regional HR b
 
 ## Report Screenshots
 
-![alt text](Overview-1.png)
+![Overview](Overview-1.png)
 
-![alt text](Details-1.png)
+![Details](Details-1.png)
 
-![alt text](Demographics-1.png)
+![Demographics](Demographics-1.png)
 
-![alt text](<Recruitment Pipeline-1.png>)
+![Recruitment Pipeline](<Recruitment Pipeline-1.png>)
 
-![alt text](<Training and Employment Sentiment Analysis-1.png>)
+![Training and Employment Sentiment Analysis](<Training and Employment Sentiment Analysis-1.png>)
